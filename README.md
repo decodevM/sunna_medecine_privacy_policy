@@ -1,48 +1,56 @@
 # Sunna Medecine Privacy Policy
 
-# Privacy Policy
-DecoDev built the Sunna Médecine app as a Freemium app. This SERVICE is provided by DecoDev at no cost and is intended for use as is.
+# Politique de confidentialité
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+DecoDev a construit l'application Sunna Médecine en tant qu'application commerciale. Ce SERVICE est fourni par DecoDev et est destiné à être utilisé tel quel.
+Cette page est utilisée pour informer les visiteurs de mes politiques de collecte, d'utilisation et de divulgation des informations personnelles si quelqu'un décide d'utiliser mon service.
+Si vous choisissez d'utiliser mon service, vous acceptez la collecte et l'utilisation d'informations en relation avec cette politique. Les informations personnelles que je collecte sont utilisées pour fournir et améliorer le service. Je n'utiliserai ni ne partagerai vos informations avec qui que ce soit, sauf de la manière décrite dans la présente politique de confidentialité.
+Les termes utilisés dans la présente politique de confidentialité ont la même signification que dans nos conditions générales, qui sont accessibles à Sunna Médecine, sauf indication contraire dans la présente politique de confidentialité.
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+# Collecte et utilisation des informations
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Sunna Médecine unless otherwise defined in this Privacy Policy.
+Pour une meilleure expérience, lors de l'utilisation de notre service, je peux vous demander de nous fournir certaines informations personnellement identifiables, y compris, mais sans s'y limiter, contact.naturoremede@gmail.com, Berisa magali, +387 65 893 593. Les informations que je demande seront conservés sur votre appareil et ne seront en aucun cas collectés par moi.
+L'application utilise des services tiers qui peuvent collecter des informations utilisées pour vous identifier.
+Lien vers la politique de confidentialité des fournisseurs de services tiers utilisés par l'application
+   - Services Google Play
 
-# Information Collection and Use
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to contact.naturoremede@gmail.com, Berisa magali, +387 65 893 593. The information that I request will be retained on your device and is not collected by me in any way.
+# Données de journal
 
-The app does use third-party services that may collect information used to identify you.
-Link to the privacy policy of third-party service providers used by the app
-  - Google Play Services
-# Log Data
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+Je tiens à vous informer que chaque fois que vous utilisez mon service, en cas d'erreur dans l'application, je collecte des données et des informations (via des produits tiers) sur votre téléphone, appelées Log Data. Ces données de journal peuvent inclure des informations telles que l'adresse de protocole Internet ("IP") de votre appareil, le nom de l'appareil, la version du système d'exploitation, la configuration de l'application lors de l'utilisation de mon service, l'heure et la date de votre utilisation du service et d'autres statistiques. .
 
 # Cookies
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
 
-This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+Les cookies sont des fichiers contenant une petite quantité de données qui sont couramment utilisés comme identifiants uniques anonymes. Ceux-ci sont envoyés à votre navigateur à partir des sites Web que vous visitez et sont stockés dans la mémoire interne de votre appareil.
+Ce Service n'utilise pas explicitement ces « cookies ». Cependant, l'application peut utiliser du code tiers et des bibliothèques qui utilisent des "cookies" pour collecter des informations et améliorer leurs services. Vous avez la possibilité d'accepter ou de refuser ces cookies et de savoir quand un cookie est envoyé sur votre appareil. Si vous choisissez de refuser nos cookies, vous ne pourrez peut-être pas utiliser certaines parties de ce service.
 
-# Service Providers
-I may employ third-party companies and individuals due to the following reasons:
-  - To facilitate our Service;
-  - To provide the Service on our behalf;
-  - To perform Service-related services; or
-  - To assist us in analyzing how our Service is used.
-I want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+# Les fournisseurs de services
 
-# Security
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+Je peux faire appel à des sociétés tierces et à des particuliers pour les raisons suivantes :
+   - Pour faciliter notre Service ;
+   - Pour fournir le Service en notre nom ;
+   - Pour effectuer des services liés au Service ; ou
+   - Pour nous aider à analyser l'utilisation de notre Service.
+Je souhaite informer les utilisateurs de ce service que ces tiers ont accès à leurs informations personnelles. La raison est d'accomplir les tâches qui leur sont confiées en notre nom. Cependant, ils sont tenus de ne pas divulguer ou utiliser les informations à d'autres fins.
 
-# Links to Other Sites
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+# Sécurité
 
-# Children’s Privacy
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do the necessary actions.
+J'apprécie votre confiance en nous fournissant vos informations personnelles, nous nous efforçons donc d'utiliser des moyens commercialement acceptables pour les protéger. Mais rappelez-vous qu'aucune méthode de transmission sur Internet ou méthode de stockage électronique n'est sûre et fiable à 100 %, et je ne peux pas garantir sa sécurité absolue.
 
-# Changes to This Privacy Policy
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
-This policy is effective as of 2022-03-08
+# Liens vers d'autres sites
 
-# Contact Us
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at contact.naturoremede@gmail.com.
+Ce Service peut contenir des liens vers d'autres sites. Si vous cliquez sur un lien tiers, vous serez dirigé vers ce site. Notez que ces sites externes ne sont pas exploités par moi. Par conséquent, je vous conseille vivement de consulter la politique de confidentialité de ces sites Web. Je n'ai aucun contrôle et n'assume aucune responsabilité pour le contenu, les politiques de confidentialité ou
+pratiques de tout site ou service tiers.
+
+# Confidentialité des enfants
+
+Ces Services ne s'adressent à personne de moins de 13 ans. Je ne collecte pas sciemment d'informations personnellement identifiables auprès d'enfants de moins de 13 ans. Dans le cas où je découvre qu'un enfant de moins de 13 ans m'a fourni des informations personnelles, je les supprime immédiatement de nos serveurs. Si vous êtes un parent ou un tuteur et que vous savez que votre enfant nous a fourni des informations personnelles, veuillez me contacter afin que je puisse faire
+les gestes nécessaires.
+
+# Modifications de cette politique de confidentialité
+
+Je peux mettre à jour notre politique de confidentialité de temps à autre. Ainsi, il vous est conseillé de consulter cette page périodiquement pour tout changement. Je vous informerai de tout changement en publiant la nouvelle politique de confidentialité sur cette page.
+Cette politique est effective à partir du 2022-03-08
+
+# Contacter nous
+
+Si vous avez des questions ou des suggestions concernant ma politique de confidentialité, n'hésitez pas à me contacter à contact.naturoremede@gmail.com.
