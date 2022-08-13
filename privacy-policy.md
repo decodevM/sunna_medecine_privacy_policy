@@ -44,6 +44,6 @@ Si vous souhaitez ne plus utiliser l’application vous devez la désinstaller d
 En utilisant notre application mobile, vous consentez à notre politique de confidentialité.
 
 
-# Contacter nous
+# Contactez nous
 
-Si vous avez des questions ou des suggestions concernant ma politique de confidentialité, n'hésitez pas à me contacter à  [contact.naturoremede@gmail.com](mailto:contact.naturoremede@gmail.com?subject=[GitHub]%20Privacy%20Policy).
+Si vous avez des questions ou des suggestions concernant la politique de confidentialité, n'hésitez pas à nous contacter à  [contact.naturoremede@gmail.com](mailto:contact.naturoremede@gmail.com?subject=[GitHub]%20Privacy%20Policy).
